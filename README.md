@@ -41,7 +41,7 @@ https://mongoosejs.com/
 ### Instalar el ORM
 ``` npm i mongoose ```  
 
-## CREAR VARIABLES DE ENTORNO **
+## CREAR VARIABLES DE ENTORNO
 Permite leer archivos con la extension .env	
 ```npm i dotenv```
 
